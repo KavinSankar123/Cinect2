@@ -6,3 +6,4 @@
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/Cinect2.iml
 .idea/.gitignore
+backend/__pycache__/config.cpython-310.pyc
